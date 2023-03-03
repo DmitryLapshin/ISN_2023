@@ -1,11 +1,4 @@
-# ISN_2023
-Project setup
-npm install
-Compiles and hot-reloads for development
-npm run serve
-Compiles and minifies for production
-npm run build
-Lints and fixes files
-npm run lint
-Customize configuration
-See Configuration Reference.
+# Отчеты
+
+Практика 1 - https://disk.yandex.ru/i/EXpgGyw8TmYu0g
+
